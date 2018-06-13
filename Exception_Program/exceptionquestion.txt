@@ -1,0 +1,15 @@
+1. Why throws keyword used ref-https://stackoverflow.com/questions/11589302/why-is-throws-exception-necessary-when-calling-a-function
+2. Throws keyword is used for handle check  or unchecked ref- https://beginnersbook.com/2013/04/java-throws/ or https://www.javatpoint.com/throws-keyword-and-difference-between-throw-and-throws
+3. What is throw keyword
+4. if we throw an exception is it mandatory to handle 
+5. why throws an exception is mandatory to handle in java for checked exception
+6. What is unreachable code in java exception ref- https://stackoverflow.com/questions/46145046/exception-handling-unreachable-code?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+    or ref- https://stackoverflow.com/questions/9827143/continuing-execution-after-an-exception-is-thrown-in-java?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+7. is it possible to use throw keyword in side finally block
+8. how to throw your own exception ref-https://beginnersbook.com/2013/12/throw-keyword-example-in-java/
+9. if we not caught the thrown exception then unreachable code will execute? ref- program in eclipse heck
+10. what is the benifit of using throws in java ref-https://beginnersbook.com/2013/04/java-throws/
+11. is it possible to use try catch inside finally
+12. why we use try finLLY if we r not catch the exception
+13. how to execute unreachble code incase of throws an exception
+	 

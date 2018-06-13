@@ -22,7 +22,7 @@ class TryCatchControlFlow{
                System.out.println("Exception caught here");
            }
            finally{
-              System.out.println("This is inside finally block");
+                     
            }
          System.out.println("outside the try-catch block");
     }
